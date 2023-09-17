@@ -1,5 +1,5 @@
 package qura.qa;
-пшек
+
 public class Main {
     public static void main(String[] args) {
         byte maxByte = Byte.MAX_VALUE;
