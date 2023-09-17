@@ -14,13 +14,8 @@ public class Main {
         int maxInt = Integer.MAX_VALUE;
         int minInt = Integer.MIN_VALUE;
         long maxLong = Long.MAX_VALUE;
-        long minLong = Long.MIN_VALUE;
-        short maxShort = Short.MAX_VALUE;
-        short minShort = Short.MAX_VALUE;
         boolean rTrue = true;
         boolean rFalse = false;
-        char maxCharacter = Character.MAX_VALUE;
-        char minCharacter = Character.MIN_VALUE;
         String word = "Hi";
         //Calculations
         System.out.println("maxInteger + minInteger = " + (maxInt + minInt));
