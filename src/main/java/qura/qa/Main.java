@@ -1,8 +1,5 @@
 package qura.qa;
-
-import java.sql.SQLOutput;
-import java.util.concurrent.BlockingDeque;
-
+пшек
 public class Main {
     public static void main(String[] args) {
         byte maxByte = Byte.MAX_VALUE;
